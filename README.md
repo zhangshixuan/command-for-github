@@ -6,9 +6,9 @@
 #添加提交描述
 
 #git commit -m '内容'
-#提交前先从远程仓库主分支中拉取请求
+#建立连接
 
-#git pull origin master
+#git remote add origin https://github.com/zhangshixuan/websocket-vue.git
 #把本地仓库代码提交
 
 #git push -u origin master
