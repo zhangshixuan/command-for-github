@@ -13,6 +13,20 @@
 
 #git push -u origin master
 
+#github在2021-8-13之后，不再支持用户名密码提交。改成token提交，需要设置token。参照https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token
+
+
+
+#之后提交之前修改.git中的config文件。将url从https://github.com/zhangshixuan/gulimall-basic.git修改成url = https://zhangshixuan925@github.com/zhangshixuan/gulimall-basic.git
+
+
+
+#最后提示输入密码的时候，输入得到的token值
+
+
+
+
+
 
 
 
